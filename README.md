@@ -1,2 +1,2 @@
 # miRepositorio
- repositorio para prender a crear
+ repositorio para aprender a manejar Github
